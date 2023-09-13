@@ -7,7 +7,7 @@ Jednostavan web valutni konverter izrađen pomoću Vue.js.
 - [Kako koristiti](#kako-koristiti)
 - [Instalacija](#instalacija)
 - [Ključne značajke](#ključne-značajke)
-- [Licenca](#licenca)
+
 
 ## Kako koristiti
 
