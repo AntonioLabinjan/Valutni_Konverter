@@ -27,3 +27,7 @@ Nema potrebe za instalacijom. Samo otvorite `Valutni_konverter.html` u svom web 
 - Konverzija između različitih valuta: HRK, USD, EUR.
 - Brza i precizna konverzija prema najnovijim tečajevima.
 
+### Napomena
+Tečajevi valuta u aplikaciji su vrijedili na dan 13. rujna 2023.
+U slučaju promjene tečaja valuta, dovoljno je promijeniti vrijednosti u ExchangeRates u skladu s novijim vrijednostima.
+
